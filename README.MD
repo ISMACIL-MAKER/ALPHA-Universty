@@ -5,5 +5,7 @@
 
 - inad ku barto html
 - inad ku barto css
-> Donte move every step
+> Donte move every step  
+ 
+ [view prjecte](ismacil-makerr.netlify.app)
 
